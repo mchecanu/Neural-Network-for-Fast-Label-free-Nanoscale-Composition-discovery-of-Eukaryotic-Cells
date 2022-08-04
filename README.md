@@ -1,4 +1,4 @@
-# Neural-Network-for-Fast-Label-free-Nanoscale-Composition-discovery-of-Eukaryotic-Cells
+# Neural-Network-speeds-up-composition-mapping-in-eukaryotic-cells
 
 This is the notebook I used for the data analysis of the Article: M.Checa et. al "Fast Label-Free Nanoscale Composition Mapping of Eukaryotic Cells Via Scanning Dielectric Force Volume Microscopy and Machine Learning", Small Methods (2021).
 
